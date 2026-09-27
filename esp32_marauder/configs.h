@@ -5,7 +5,7 @@
   #define configs_h
 
   #define POLISH_POTATO
-
+ 
   //#define DEVELOPER
 
   // Developer-only escape hatch for unsigned or mismatched SD update images.
